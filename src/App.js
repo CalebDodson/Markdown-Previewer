@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { marked } from "marked";
-import { TextField, Container, Typography, Paper, Box, ThemeProvider, createTheme } from '@mui/material';
+import { TextField, Container, Typography, Paper, Box, createTheme } from '@mui/material';
 import "./App.css";
 
 function App() {
