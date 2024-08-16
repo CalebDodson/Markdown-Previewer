@@ -2,3 +2,22 @@ body {
     margin: 0;
     background-color: #fef6e4;
 }
+footer {
+    position: absolute;
+    bottom: 0;
+    height: 2.5rem;
+    color: var(--text);
+    font-family: "PT Serif, serif";
+    padding-left: 20px;
+  }
+#page-container {
+    position: relative;
+    min-height: 100vh;
+}
+#icon-link:link {
+    color: #001858;
+    text-decoration: none;
+}
+#icon-link:visited {
+    color: #001858;
+}
